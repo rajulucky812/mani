@@ -1,0 +1,2 @@
+# mani
+linux project
